@@ -64,8 +64,6 @@ class FarelNickholas:
         " n8n Workflows",
         " SaaS Dashboard for Government",
     ]
-    
-    fun_fact = "Saya lebih senang debug model NLP jam 2 pagi daripada tidur 🌙"
 ```
 
 <br/>
