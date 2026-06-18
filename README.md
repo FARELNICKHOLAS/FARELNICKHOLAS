@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Clean, Animated Dragon Icon -->
-  <img src="https://64.media.tumblr.com/004b057aab0118f5d3e7065f666dbdd4/cac426b5b239f6c9-bc/s2048x3072/e42c440ea6a12e0bb509701496de507a68640c9e.gif" alt="Dragon GIF" width="250" style="border-radius: 15px;">
+  <img src="dragon.gif" alt="Dragon GIF" width="250" style="border-radius: 15px;">
 
   <h1>Wayan Farel Nickholas Sadewa</h1>
   <h3>AI Engineer | NLP Specialist | Automation Architect</h3>
