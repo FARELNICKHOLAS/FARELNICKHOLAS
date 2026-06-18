@@ -23,7 +23,7 @@ Architecting robust AI systems requires strategic orchestration, raw computation
 
 ---
 
-### ⚔️ Valyrian Steel | Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
   
@@ -50,5 +50,4 @@ Architecting robust AI systems requires strategic orchestration, raw computation
 
 <div align="center">
   <p>📫 <b>Send a Raven:</b> <a href="https://www.linkedin.com/in/wayan-farel-nickholas-sadewa-s-kom-878116276/">LinkedIn</a> • <a href="mailto:farel.harri@gmail.com">Email</a></p>
-  <p><i>🔥 "Fire, Blood, and Code." 🩸</i></p>
 </div>
