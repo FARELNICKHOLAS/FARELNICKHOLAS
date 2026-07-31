@@ -4,16 +4,13 @@
 
   <h1>Wayan Farel Nickholas Sadewa</h1>
   <h3>AI Engineer | NLP Specialist | Automation Architect</h3>
-  
-  <p><i>"Mastering the dance of data to forge intelligent, high-performance systems."</i></p>
-
   <!-- GitHub Stats (Optional: Remove the HTML comment tags below to display real-time stats) -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=FARELNICKHOLAS&show_icons=true&theme=tokyonight&hide_border=true" alt="Farel's GitHub Stats" /> -->
 </div>
 
 ---
 
-### Professional Overview
+### Overview
 
 Architecting robust AI systems requires strategic orchestration, raw computational power, and absolute precision. I specialize in bridging rigorous academic research in Informatics with agile, industry-standard engineering practices to build scalable, intelligent pipelines.
 
